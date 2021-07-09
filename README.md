@@ -1,1 +1,3 @@
-# My_First_gitrepo
+# Hello World!
+This is my first Github Repository
+I love :coffee: :pizza: and :dancers:
